@@ -8,14 +8,14 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@github.com/PharmaLedger-IMI/epi-theme.git"
+        "url": "git+ssh://git@github.com/pharmaledgerassoc/epi-theme.git"
     },
     "author": "",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/PharmaLedger-IMI/epi-theme/issues"
+        "url": "https://github.com/pharmaledgerassoc/epi-theme/issues"
     },
-    "homepage": "https://github.com/PharmaLedger-IMI/epi-theme/#readme",
+    "homepage": "https://github.com/pharmaledgerassoc/epi-theme/#readme",
     "dependencies": {
         "octopus": "git+http://github.com/opendsu/octopus.git"
     }
